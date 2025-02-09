@@ -30,4 +30,6 @@ I'm a 70% backend, 30% frontend software engineer capable of taking things from 
 
 ## 📫 Get in Touch
 Email: thomas.j.wetmore@gmail.com
+LinkedIn: [linkedin.com/in/tjwetmore](https://www.linkedin.com/in/tjwetmore) 
+</br>
 Location: New York, NY
