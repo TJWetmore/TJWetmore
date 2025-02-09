@@ -15,7 +15,7 @@ I'm a 70% backend, 30% frontend software engineer capable of taking things from 
 
 ### Why I love tech (stuff I've done for free)
 - Teaching the next generation of developers at FIT
-- Created my own app, from soup to nuts (is that a saying?) and getting it on the app store.
+- Created my own app, from soup to nuts (is that a saying?) and getting it on the app store and play store.
 - Contributed to Swell, an open source API endpoint testing tool
 - Computer literacy classes for the elderly in my co-op
 
