@@ -6,10 +6,10 @@ If you came to see 🟩 🟩 🟩 - 😬 that's all on my company github profile
 
 There's some green squares in public here! [leetcode.com/u/TJWetmore](https://leetcode.com/u/TJWetmore/)
 
-## About Me
+## 🚀 About Me
 I am a 70% backend, 30% frontend software engineer capable of taking things from a list-to-santa requirements to a delivery on a sleigh. I love collaborating, and I love delivering business impact with delightful user experiences. 
 
-### 🚀 What I'm Up To
+### What I'm Up To
 - Working at Boom, building event-driven architectures for personalized user experiences
 - Swimming with sharks: performing on a high-caliber, small team serving tens of thousands of daily active users 
 
