@@ -1,6 +1,6 @@
 # Hey! 👋
 ### About you
-You found my Github, and you know what Github is. So I take it you're a developer. Great, I see myself as a personality hire so please see my personality.
+You found my Github, so I take it you're a developer.
 
 If you came to see 🟩 🟩 🟩 - 😬 that's all on my company github profile. But I promise you, I am not a ⬜️ ⬜️ ⬜️ developer.
 
