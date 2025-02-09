@@ -1,10 +1,10 @@
 # Hey! 👋
 ### About you
-You found my Github. And you know what Github is. So I take it you're a developer. Great, I'm a personality hire so please see my personality.
+You found my Github, and you know what Github is. So I take it you're a developer. Great, I see myself as a personality hire so please see my personality.
 
-If you came to see 🟩 🟩 🟩 - welp, you'll have to see that on my company github profile. But I promise you, I'm not a ⬜️ ⬜️ ⬜️ developer.
+If you came to see 🟩 🟩 🟩 - 😬 that's all on my company github profile. But I promise you, I am not a ⬜️ ⬜️ ⬜️ developer.
 
-If you want to see some green sqares - my leetcode is pretty active these days. [leetcode.com/u/TJWetmore](https://leetcode.com/u/TJWetmore/)
+There's some green squares in public here! [leetcode.com/u/TJWetmore](https://leetcode.com/u/TJWetmore/)
 
 ### About Me
 I'm a 70% backend, 30% frontend software engineer capable of taking things from a list-to-santa requirements to a delivery on a sleigh. I love collaborating, and I love delivering business impact with delightful user experiences. 
