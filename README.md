@@ -1,4 +1,4 @@
-## Hey! 👋
+# Hey! 👋
 ### About you
 You found my Github. And you know what Github is. So I take it you're a developer. Great, I'm a personality hire so please see my personality.
 
@@ -26,10 +26,11 @@ I'm a 70% backend, 30% frontend software engineer capable of taking things from 
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/-ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=black)
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) 
-+ a lot more :D
+- a lot more :D
 
 ## 📫 Get in Touch
 Email: thomas.j.wetmore@gmail.com
+</br>
 LinkedIn: [linkedin.com/in/tjwetmore](https://www.linkedin.com/in/tjwetmore) 
 </br>
 Location: New York, NY
